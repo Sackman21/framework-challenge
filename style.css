@@ -3,9 +3,13 @@ body{
     color: #424242;
     background-color: aquamarine;
 }
+header{
+    background-color: white;
+}
 
 section{
     display: flex;
+    background-color: antiquewhite;
 }
 
 #Inquiry{
