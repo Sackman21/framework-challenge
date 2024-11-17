@@ -4,10 +4,10 @@ body{
     border-top: 10px solid black;
 }
 h1{
-    font-size: 2.5;
+    font-size: 2.5em;
 }
 h2{
-    font-size: 2;
+    font-size: 2em;
 }
 p{
     color: black;
@@ -40,8 +40,6 @@ article{
 #HandPlant{
     height: 500px;
     width: inherit;
-    float: left;
-    margin-right: 10px;
 }
 .Submission{
     background-color: #44580F;
