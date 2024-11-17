@@ -1,6 +1,6 @@
 body{
     color: #424242;
-    background-color: #92c12e;
+    background-color: white;
     border-top: 10px solid black;
 }
 h1{
@@ -31,7 +31,7 @@ article{
     margin-right: 10px;
 }
 #GardenPhoto{
-    height: 500px;
+    height: 400px;
     width: 400px;
     float: left; 
     margin-right: 10px;
