@@ -3,6 +3,9 @@ body{
     background-color: white;
     border-top: 10px solid black;
 }
+p{
+    color: black;
+}
 header{
     background-color: #44580F;
 }
@@ -21,6 +24,10 @@ section{
     width: 400px;
     float: left; 
     margin-right: 10px;
+}
+#HandPlant{
+    height: 500px;
+    width: 500px;
 }
 .Submission{
     background-color: #92c12e;
