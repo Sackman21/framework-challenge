@@ -1,8 +1,8 @@
 body{
-    margin: 40px;
+    margin: 10px;
     color: #424242;
     background-color: white;
-    border-top: 10px black;
+    border-top: 10px solid black;
 }
 header{
     background-color: grey;
@@ -15,4 +15,7 @@ section{
 
 #Inquiry{
     padding: 20px;
+}
+#GardenPhoto{
+
 }
