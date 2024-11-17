@@ -13,10 +13,11 @@ section{
 }
 
 #Inquiry{
+    float: left;
     padding: 10px;
     background-color: silver;
 }
 #GardenPhoto{
-    height: 100px;
-    width: 100px;
+    height: 500px;
+    width: 500px;
 }
