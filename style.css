@@ -1,7 +1,6 @@
 body{
     color: #000000;
-    background-color: black;
-    border: 10px solid black;
+    background-color: rgb(180, 248, 189);
 }
 h1{
     font-size: 2.5em;
@@ -15,6 +14,7 @@ p{
 }
 header{
     background-color: #44580F;
+    border-top: 10px solid #000000;
 }
 
 section{
