@@ -1,5 +1,4 @@
 body{
-    margin: 10px;
     color: #424242;
     background-color: white;
     border-top: 10px solid black;
@@ -17,5 +16,6 @@ section{
     padding: 20px;
 }
 #GardenPhoto{
-
+    height: 500px;
+    width: 500px;
 }
