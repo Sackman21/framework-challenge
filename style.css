@@ -1,6 +1,6 @@
 body{
     color: #424242;
-    background-color: white;
+    background-color: #92c12e;
     border-top: 10px solid black;
 }
 p{
@@ -30,5 +30,5 @@ section{
     width: 500px;
 }
 .Submission{
-    background-color: #92c12e;
+    background-color: #44580F;
 }
