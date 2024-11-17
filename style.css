@@ -1,10 +1,11 @@
 body{
     margin: 40px;
     color: #424242;
-    background-color: aquamarine;
+    background-color: white;
+    border-top: 10px black;
 }
 header{
-    background-color: white;
+    background-color: grey;
 }
 
 section{
