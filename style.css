@@ -1,5 +1,7 @@
 body{
-    background-image: url(Images/CityGarden.jpg);
+    margin: 40px;
+    color: #424242;
+    background-color: aquamarine;
 }
 
 section{
