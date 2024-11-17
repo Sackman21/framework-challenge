@@ -4,7 +4,7 @@ body{
     border-top: 10px solid black;
 }
 header{
-    background-color: grey;
+    background-color: #44580F;
 }
 
 section{
@@ -15,7 +15,6 @@ section{
 #Inquiry{
     float: left;
     margin-right: 10px;
-    background-color: silver;
 }
 #GardenPhoto{
     height: 500px;
@@ -24,5 +23,5 @@ section{
     margin-right: 10px;
 }
 .Submission{
-    background-color: silver;
+    background-color: #3e3465;
 }
