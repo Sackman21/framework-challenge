@@ -18,9 +18,10 @@ section{
     background-color: silver;
 }
 #GardenPhoto{
-    height: 400px;
+    height: 500px;
     width: 400px;
-    float: left;
+    float: left; 
+    margin-right: 10px;
 }
 .Submission{
     background-color: silver;
