@@ -14,10 +14,13 @@ section{
 
 #Inquiry{
     float: left;
-    padding: 10px;
+    margin-right: 10px;
     background-color: silver;
 }
 #GardenPhoto{
     height: 400px;
     width: 400px;
+}
+.Submission{
+    background-color: silver;
 }
