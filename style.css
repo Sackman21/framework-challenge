@@ -33,6 +33,8 @@ article{
 #GardenPhoto{
     height: 500px;
     width: inherit;
+    float: left;
+    margin-right: 10px;
 
 }
 
