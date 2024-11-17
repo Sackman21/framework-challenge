@@ -1,6 +1,6 @@
 body{
     color: #000000;
-    background-color: white;
+    background-color: black;
     border: 10px solid black;
 }
 h1{
@@ -37,7 +37,9 @@ article{
     margin-right: 10px;
 
 }
-
+#Tagline{
+    border-bottom: 10px solid #000000;
+}
 .Submission{
     background-color: #44580F;
 }
