@@ -37,7 +37,12 @@ article{
     margin-right: 10px;
 
 }
-
+#HandPlant{
+    height: 500px;
+    width: inherit;
+    float: left;
+    margin-right: 10px;
+}
 .Submission{
     background-color: #44580F;
 }
